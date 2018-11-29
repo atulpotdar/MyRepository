@@ -1,10 +1,4 @@
-package tcs.Project1;
-
-/**
- * Hello world!
- *
- */
-public class App 
+public class abc 
 {
     public static void main( String[] args )
     {
